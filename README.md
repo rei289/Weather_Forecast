@@ -23,4 +23,4 @@ pip install matplotlib
 ## Notes about code
 1. The data was collected from 2019 in a weather station located in Toronto, Ontario, Canada. Therefore, the predicted temperature is not very reliable, but it is a start
 2. The code uses polynomial regression (using polyfit) from numpy to predict the temperature
-3. 
+3. Before running the code, make sure you download the merged_2019.csv file and copy the file path and paste it in line 6
