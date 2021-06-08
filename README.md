@@ -6,7 +6,7 @@ This weather forcasting code uses polynomial regression to predict the temperatu
 This code uses python. If you have already used or installed python in the past, skip this section. </br>
 1. Download package from this website: https://www.python.org/downloads/
 2. Once downloaded, open package and follow instructions 
-3. Using an IDE will significantly make your life easier in running and modifying the code. Examples of good IDE include PyCharm, Wing (IDE I used to run this code), Spyder
+3. Using an IDE will significantly make your life easier in running and modifying the code. Examples of good IDE include PyCharm, Wing (IDE I used to run this code), Spyder. You can find and install these IDEs by searching them up online
 
 ### Libraries
 To run this game, you need to install 3 python libraries: pandas, numpy, matplotlib. These can be installed simply by opening your terminal (for mac) and typing the following:
@@ -21,4 +21,6 @@ pip install matplotlib
 ```
 
 ## Notes about code
-1. 
+1. The data was collected from 2019 in a weather station located in Toronto, Ontario, Canada. Therefore, the predicted temperature is not very reliable, but it is a start
+2. The code uses polynomial regression (using polyfit) from numpy to predict the temperature
+3. 
