@@ -2,7 +2,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 # DATA FOR 2019 EACH MONTH
-data_2019 = pd.read_csv("/Users/tsuyoshikatsuta/PycharmProjects/Machine_Learning/Weather_Forecast/merged_2019.csv")
+# Import data by copying file path in the read_csv function
+data_2019 = pd.read_csv("<file path>")
 
 
 
