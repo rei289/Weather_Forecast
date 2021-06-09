@@ -10,12 +10,15 @@ This code uses python. If you have already used or installed python in the past,
 
 ### Libraries
 To run this game, you need to install 3 python libraries: pandas, numpy, matplotlib. These can be installed simply by opening your terminal (for mac) and typing the following:
+#### Pandas
 ```
 pip install pandas
 ```
+#### Numpy
 ```
 pip install numpy
 ```
+#### matplotlib
 ```
 pip install matplotlib
 ```
